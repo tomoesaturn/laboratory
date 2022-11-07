@@ -1,0 +1,6 @@
+.venv
+poetry.lock
+
+*.zip
+*.csv
+*.log
